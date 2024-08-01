@@ -57,6 +57,6 @@ public class BaseTest extends Log {
         // Local Storage'ı saklama
         JavascriptExecutor js = (JavascriptExecutor) driver;
         localStorageData = (String) js.executeScript("return JSON.stringify(window.localStorage);");
-        //driver.quit();
+        driver.quit();
     }
 }

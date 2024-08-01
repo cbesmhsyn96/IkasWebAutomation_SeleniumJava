@@ -16,8 +16,7 @@
         <dependency>
             <groupId>com.thoughtworks.gauge</groupId>
             <artifactId>gauge-java</artifactId>
-            <version>[0.10.3,)</version>
-            <scope>test</scope>
+            <version>0.11.0</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
@@ -79,22 +78,22 @@
                     <compilerArgs>--enable-preview</compilerArgs>
                 </configuration>
             </plugin>
-<!--            <plugin>-->
-<!--                <groupId>com.thoughtworks.gauge.maven</groupId>-->
-<!--                <artifactId>gauge-maven-plugin</artifactId>-->
-<!--                <version>1.6.3</version>-->
-<!--                <executions>-->
-<!--                    <execution>-->
-<!--                        <phase>test</phase>-->
-<!--                        <configuration>-->
-<!--                            <specsDir>specs</specsDir>-->
-<!--                        </configuration>-->
-<!--                        <goals>-->
-<!--                            <goal>execute</goal>-->
-<!--                        </goals>-->
-<!--                    </execution>-->
-<!--                </executions>-->
-<!--            </plugin>-->
+            <plugin>
+                <groupId>com.thoughtworks.gauge.maven</groupId>
+                <artifactId>gauge-maven-plugin</artifactId>
+                <version>1.6.3</version>
+                <executions>
+                    <execution>
+                        <phase>test</phase>
+                        <configuration>
+                            <specsDir>specs</specsDir>
+                        </configuration>
+                        <goals>
+                            <goal>execute</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
         </plugins>
     </build>
 

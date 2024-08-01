@@ -1,0 +1,21 @@
+# Anayasfanın yüklenmesi beklenir
+* "5" saniye bekle
+* "IkasIcon" keyli elementi var mı kontrol et
+* Sayfa başlığı "ikas | Yeni Nesil E-Ticaret Altyapısı" mı kontrol et
+* "DenemeHesabiOlusturBtn" keyli elementi var mı kontrol et
+* "ETicaretSiteniAcBtn" keyli elementi var mı kontrol et
+* "SiziArayalimBtn" keyli elementi var mı kontrol et
+* "GirisYapLink" keyli elementi var mı kontrol et
+
+# Chat Widget iframeine geçilir
+* "30" saniye bekle
+* "ChatWidgetIframe" keyli iframe e geç
+e
+# Chatbot kapatılır
+* "CloseChatBotBtn" keyli elemente tıkla
+
+# Chat Widget iframeinden çıkılır
+* Iframeden çık
+
+# Giriş Yap linkine tıklanır
+* "GirisYapLink" keyli elemente tıkla

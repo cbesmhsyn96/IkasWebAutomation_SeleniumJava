@@ -1,0 +1,37 @@
+[
+  {
+    "key": "OTPCodeInput",
+    "value": "div#root input[autocomplete='one-time-code']:nth-of-type(1)",
+    "type": "css"
+  },
+  {
+    "key": "OTPCode_DevamEtButton",
+    "value": "div#root div[class='g-recaptcha']+div button",
+    "type": "css"
+  },
+  {
+    "key": "Recaptcha_Iframe",
+    "value": "body > div:nth-child(38) > div:nth-child(2) > iframe[title='reCAPTCHA sorusunun süresi iki dakika sonra dolacak']",
+    "type": "css"
+  },
+  {
+    "key": "Recaptcha_Iframe_ImageSelect",
+    "value": "div#rc-imageselect",
+    "type": "css"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]

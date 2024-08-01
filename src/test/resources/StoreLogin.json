@@ -1,0 +1,32 @@
+[
+  {
+    "key":"StoreLoginStoreName",
+    "value": "input[name='storeName']",
+    "type": "css"
+  },
+  {
+    "key":"StoreLoginDevamEtBtn",
+    "value": "div#root form button",
+    "type": "css"
+  },
+  {
+    "key":"StoreLoginKayıtOlLink",
+    "value": "div#root a[href='/register']",
+    "type": "css"
+  },
+  {
+    "key":"StoreDomainText",
+    "value": "div#root>div>div:nth-child(2)>header>span+div+div>div",
+    "type": "css"
+  },
+  {
+    "key":"GirisYapBtn",
+    "value": "div#root>div>div+div>header+div>form>button",
+    "type": "css"
+  },
+  {
+    "key":"KayitliHesap",
+    "value": "div#root a[title='hakcantest']",
+    "type": "css"
+  }
+]

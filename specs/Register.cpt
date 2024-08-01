@@ -1,0 +1,15 @@
+
+
+
+# Register sayfasının açıldığı kontrol edilir
+* "RegisterFirstNameInput" keyli elementi var mı kontrol et
+* "RegisterLastNameInput" keyli elementi var mı kontrol et
+* "RegisterStoreNameInput" keyli elementi var mı kontrol et
+* "RegisterEmailInput" keyli elementi var mı kontrol et
+* "RegisterTelInput" keyli elementi var mı kontrol et
+* "RegisterPasswordInput" keyli elementi var mı kontrol et
+* "RegisterAcikRizaDiv" keyli elementi var mı kontrol et
+
+# Register sayfasında Giriş Yap linkine tıklanır
+* "5" saniye bekle
+* "RegisterGirisYapLink" keyli elemente tıkla

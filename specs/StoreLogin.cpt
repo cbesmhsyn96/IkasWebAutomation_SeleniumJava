@@ -1,0 +1,31 @@
+
+
+
+# Store Login sayfasının açıldığı kontrol edilir
+* "3" saniye bekle
+* "StoreLoginStoreName" keyli elementi var mı kontrol et
+* "StoreLoginDevamEtBtn" keyli elementi var mı kontrol et
+* "StoreLoginKayıtOlLink" keyli elementi var mı kontrol et
+* Sayfa başlığı "ikas - Giriş Yap" mı kontrol et
+
+# Store Login sayfasında Mağaza Adı alanına <magazaAdı> girilir
+* "StoreLoginStoreName" keyli elemente <magazaAdı> değerini yaz ve "Store Name" ile hafızada sakla
+
+
+# Store Login sayfasında Devam Et butonuna tıklanır
+* "StoreLoginDevamEtBtn" keyli elemente tıkla
+
+# Store Login sayfasında mağaza domaininin doğruluğu kontrol edilir
+* "1" saniye bekle
+* "StoreDomainText" keyli elementin texti hafızadaki "Store Name" stored keyli elementin textini içeriyor mu kontrol et
+
+# Store Login sayfasında E-posta alanına <eposta> girilir
+* "RegisterEmailInput" keyli elemente <eposta> değerini yaz
+
+# Store Login sayfasında Password alanına <password> girilir
+* "RegisterPasswordInput" keyli elemente <password> değerini yaz
+
+# Store Login sayfasında Giriş Yap butonuna tıklanır
+* "GirisYapBtn" keyli elemente tıkla
+
+

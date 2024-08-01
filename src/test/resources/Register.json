@@ -1,0 +1,52 @@
+[
+  {
+    "key": "RegisterGirisYapLink",
+    "value": "//div[@id='root']//a[contains(text(),'Giriş Yap')]",
+    "type": "xpath"
+  },
+  {
+    "key": "RegisterFirstNameInput",
+    "value": "input[name='firstName']",
+    "type": "css"
+  },
+  {
+    "key": "RegisterLastNameInput",
+    "value": "input[name='lastName']",
+    "type": "css"
+  },
+  {
+    "key": "RegisterStoreNameInput",
+    "value": "input[name='storeName']",
+    "type": "css"
+  },
+  {
+    "key": "RegisterEmailInput",
+    "value": "input[name='email']",
+    "type": "css"
+  },
+  {
+    "key": "RegisterTelInput",
+    "value": "input[type='tel']",
+    "type": "css"
+  },
+  {
+    "key": "RegisterPasswordInput",
+    "value": "input[name='password']",
+    "type": "css"
+  },
+  {
+    "key": "RegisterAcikRizaDiv",
+    "value": "form>div:nth-child(5)+div+div",
+    "type": "css"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]

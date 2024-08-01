@@ -1,0 +1,62 @@
+[
+  {
+    "key": "GirisYapLink",
+    "value": "header#header>div:nth-child(2)>nav>ul+div>div:nth-child(1)>a:nth-child(2)",
+    "type": "css"
+  },
+  {
+    "key": "IkasIcon",
+    "value": "header#header>div:nth-child(2)>nav a[aria-label=\"ikas\"]",
+    "type": "css"
+  },
+  {
+    "key": "DenemeHesabiOlusturBtn",
+    "value": "//section[@id='hero-container']//a[contains(text(),'Deneme Hesabı Oluştur')]",
+    "type": "xpath"
+  },
+  {
+    "key": "ETicaretSiteniAcBtn",
+    "value": "header#header>div:nth-child(2)>nav a[id='header-primary-cta-tr/']",
+    "type": "css"
+  },
+  {
+    "key": "SiziArayalimBtn",
+    "value": "//section[@id='hero-container']//a[contains(text(),'Sizi Arayalım')]",
+    "type": "xpath"
+  },
+  {
+    "key": "InteractiveCloseBtn",
+    "value": "div#interactive-close-button",
+    "type": "css"
+  },
+  {
+    "key": "PopUpIframe",
+    "value": "iframe[data-test-id='interactive-frame']",
+    "type": "css"
+  },
+  {
+    "key": "PopUpIframeCloseBtn",
+    "value": "div.button-container>#interactive-close-button",
+    "type": "css"
+  },
+  {
+    "key": "ChatWidgetIframe",
+    "value": "hubspot-conversations-iframe",
+    "type": "id"
+  },
+  {
+    "key": "CloseChatBotBtn",
+    "value": "main#live-chat-widget+span button",
+    "type": "css"
+  },
+  {
+    "key": "AcceptAllCookiesBtn",
+    "value": "div#__next>div>div>div>div:nth-child(4)>button:nth-child(2)",
+    "type": "css"
+  },
+  {
+    "key": "TurkceDevamBtn",
+    "value": "div#__next header#header>div:nth-child(1)>div>div>div:nth-child(2)>div:nth-child(2)",
+    "type": "css"
+  }
+]

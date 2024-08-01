@@ -1,0 +1,7 @@
+[
+  {
+    "key": "SecElement",
+    "value": "//div[@data-email='hsynakcn63023534@gmail.com']/preceding-sibling::div",
+    "type": "xpath"
+  }
+]

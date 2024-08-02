@@ -10,7 +10,7 @@ senassryo
 * Anayasfanın yüklenmesi beklenir
 * "GirisYapLink" keyli elemente tıkla
 * Register sayfasının açıldığı kontrol edilir
-* "" keyli elemente tıkla
+//* "" keyli elemente tıkla
 
 //*"DogrulamaKoduInput" keyli elemente hafızadaki "doprulamakodum" keyli elementin textini yaz
 //*"AuthenticatiorDevamEt" keyli elemente tıkla
